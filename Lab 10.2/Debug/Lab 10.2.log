@@ -1,0 +1,7 @@
+﻿  student.cpp
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.2\student.cpp(9,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.2\student.cpp(10,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.2\student.cpp(28,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  student_test.cpp
+  Generating Code...
+  Lab 10.2.vcxproj -> C:\Users\김보경\source\repos\Programming_2020-2\Debug\Lab 10.2.exe

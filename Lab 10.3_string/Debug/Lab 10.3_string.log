@@ -1,0 +1,63 @@
+﻿  student.cpp
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(7,13): error C3646: 'name': unknown override specifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(8,25): error C3646: 'semester_offered': unknown override specifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(8,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(14,16): error C3646: 'st_name': unknown override specifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(14,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(15,11): error C3646: 'id': unknown override specifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(15,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(17,15): error C3646: 'status': unknown override specifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(17,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(22,35): error C2061: syntax error: identifier 'string'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(22,35): error C2535: 'student::student(void)': member function already defined or declared
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(21): message : see declaration of 'student::student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(23,28): error C2061: syntax error: identifier 'string'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(24,25): error C2061: syntax error: identifier 'string'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(8,2): error C2065: 'st_name': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(9,2): error C2065: 'id': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(10,2): error C2065: 'status': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(14,1): error C2511: 'student::student(std::string,std::string)': overloaded member function not found in 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(12): message : see declaration of 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(15,2): error C2065: 'st_name': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(16,2): error C2065: 'id': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(19,45): error C2511: 'void student::update_status(std::string)': overloaded member function not found in 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(12): message : see declaration of 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(20,2): error C2065: 'status': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(23,74): error C2511: 'void student::update_gpa(std::string,std::string,const float)': overloaded member function not found in 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(12): message : see declaration of 'student'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,9): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,10): error C2597: illegal reference to non-static member 'student::course'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,10): error C3867: 'student::course': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,10): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,10): error C3867: 'student::i': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(24,10): error C2568: '[': unable to resolve function overload
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,9): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,10): error C2597: illegal reference to non-static member 'student::course'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,10): error C3867: 'student::course': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,10): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,10): error C3867: 'student::i': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(25,10): error C2568: '[': unable to resolve function overload
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,9): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,10): error C2597: illegal reference to non-static member 'student::course'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,10): error C3867: 'student::course': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,10): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,10): error C3867: 'student::i': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(26,10): error C2568: '[': unable to resolve function overload
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(27,3): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(27,3): error C3867: 'student::i': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(27,3): error C2105: '++' needs l-value
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(30,23): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(30,23): error C3867: 'student::i': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(30,23): error C2568: '<': unable to resolve function overload
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(31,20): error C2597: illegal reference to non-static member 'student::course'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(31,20): error C3867: 'student::course': non-standard syntax; use '&' to create a pointer to member
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(31,20): error C2109: subscript requires array or pointer type
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(34,22): error C2597: illegal reference to non-static member 'student::i'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(38,24): error C2065: 'st_name': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(39,24): error C2065: 'id': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(43,24): error C2065: 'status': undeclared identifier
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(46,38): error C2039: 'semester_offered': is not a member of 'lecture'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(6): message : see declaration of 'lecture'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.cpp(47,26): error C2039: 'name': is not a member of 'lecture'
+C:\Users\김보경\source\repos\Programming_2020-2\Lab 10.3\student.h(6): message : see declaration of 'lecture'
